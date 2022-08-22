@@ -1,0 +1,126 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+h1{
+font-family: 'Sacramento', cursive;
+  margin : 50px auto 2.5rem;
+  font-size: 90px;
+  color: #2c786c;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+color : #2c786c;
+}
+.top-container{
+  position: relative;
+  padding-top: 108px;
+  background-color: #bfe9e3;
+}
+.top-cloud{
+  position:absolute;
+  right: 235px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 160px;
+}
+.middle-container{
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+.profile-image{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+p{
+
+  line-height: 2;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin : 100px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 150px auto;
+  text-align: left;
+}
+.skill-1{
+  width: 180px;
+  border-radius: 10px;
+  float: left;
+  margin-right: 80px;
+}
+.skill-2{
+  width: 180px;
+  border-radius: 10px;
+  float: right;
+  margin-left: : 80px;
+}
+.skill-3{
+  width: 180px;
+  border-radius: 10px;
+  float: left;
+  margin-right: 80px;
+}
+h3{
+
+}
+
+.contact-message{
+  width: 50%;
+  margin: 36px auto;
+
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #174e57;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3b6f80;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #bfe9e3;
+  padding: 50px 0 20px;
+}
+.link-1{
+margin-right: 30px;
+color: #431304;
+text-decoration: none;
+font-size: 25px;
+}
+.link-2{
+  margin-right: 30px;
+  color: #431304;
+  text-decoration: none;
+  font-size: 25px;
+}
